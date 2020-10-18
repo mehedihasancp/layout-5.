@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+
+}
+.Logo{
+    background-color: aliceblue;
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+.Banner{
+    background-color: aqua;
+    height: 100px;
+    width: 70%;
+    text-align: center;
+    float: right;
+}
+
+nav{
+
+}
+.Bar{
+    background-color: blueviolet;
+    height: 100px;
+    text-align: center;
+}
+.Bar h1{
+    color: white;
+}
+
+article{
+    overflow: hidden;
+
+}
+.left{
+    height: 500px;
+    width: 25%;
+    background-color: violet;
+    text-align: center;
+    float: left;
+
+}
+.left h1{
+    color: whitesmoke;
+}
+.center{
+    height: 500px;
+    width: 50%;
+    background-color: lightcoral;
+    text-align: center;
+    float: left;
+
+}
+.center h1{
+    color: white;
+
+}
+.right{
+    height: 500px;
+    width: 25%;
+    background-color: khaki;
+    text-align: center;
+    float: left;
+
+}
+.right h1{
+    color: black;
+
+}
+.Center-top{
+    height: 30%;
+    background-color: brown;
+
+}
+.center-middle{
+    height: 40%;
+    background-color: navy;
+    overflow: hidden;
+}
+.center-left{
+    height: 100%;
+    width: 50%;
+    background-color: lightskyblue;
+    float: left;
+
+}
+.center-right{
+    height: 100%;
+    width: 50%;
+    background-color: maroon;
+    float: right;
+
+}
+
+.center-bottom{
+    height: 30%;
+    background-color: lightgreen;
+}
+.footer{
+    height: 100px;
+    background-color: teal;
+    text-align: center;
+}
+.footer h1{
+    color: white;
+}
